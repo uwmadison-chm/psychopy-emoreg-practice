@@ -1,0 +1,6 @@
+﻿stim_path,face_path,Valence,ITI,ISI,TrialLen,TrialLenSec,TrialLenSum
+./stims/1.jpg,./faces/1.jpg,positive,7200,2117,15617,15.617,15.617
+./stims/2.jpg,./faces/2.jpg,negative,11700,2283,15783,15.783,31.4
+./stims/3.jpg,./faces/3.jpg,positive,7200,2050,15550,15.55,46.95
+./stims/4.jpg,./faces/4.jpg,negative,9900,2500,16000,16,62.95
+./stims/5.jpg,./faces/5.jpg,negative,7200,2067,15567,15.567,78.517
